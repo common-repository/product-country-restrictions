@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Country Restrictions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-02 16:35+0100\n"
+"PO-Revision-Date: 2016-11-02 16:38+0100\n"
+"Last-Translator: Ulf Hedlund <ulf@ulfhedlund.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: \\\\ubuntu\\www\\multishop\\wp-content\\plugins\\product-country-restrictions\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: product-country-restrictions.php:65
+msgid "Product Country Restrictions"
+msgstr "Product Country Restrictions"
+
+#: product-country-restrictions.php:68
+msgid "Restriction message"
+msgstr "Felmeddelande"
+
+#: product-country-restrictions.php:69
+msgid "Error message to display when a product is restricted by country."
+msgstr "Felmeddelande att visa när en produkt är otillgänglig i ett land."
+
+#: product-country-restrictions.php:75
+#, php-format
+msgid "Leave blank for default message: %s"
+msgstr "Lämna tomt för standardmeddelande: %s"
+
+#: product-country-restrictions.php:84
+msgid "Product Country Restrictions requires WooCommerce 2.4 or newer"
+msgstr "Product Country Restrictions kräver WooCommerce 2.4 eller nyare"
+
+#: product-country-restrictions.php:101
+#: product-country-restrictions.php:145
+msgid "Geographic availability"
+msgstr "Geografisk tillgänglighet"
+
+#: product-country-restrictions.php:105
+#: product-country-restrictions.php:150
+msgid "All countries"
+msgstr "Alla länder"
+
+#: product-country-restrictions.php:106
+#: product-country-restrictions.php:151
+msgid "Selected countries only"
+msgstr "Endast utvalda länder"
+
+#: product-country-restrictions.php:107
+#: product-country-restrictions.php:152
+msgid "Excluding selected countries"
+msgstr "Ej till utvalda länder"
+
+#: product-country-restrictions.php:119
+#: product-country-restrictions.php:162
+msgid "Selected countries"
+msgstr "Utvalda länder"
+
+#: product-country-restrictions.php:243
+msgid "Sorry, this product is not available in your country"
+msgstr "Tyvärr är den här produkten inte tillgänglig i ditt land"
+
